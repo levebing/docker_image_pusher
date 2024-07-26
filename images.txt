@@ -1,4 +1,2 @@
-prom/node-exporter
-prom/prometheus
-grafana/grafana
+cym1102/nginxwebui:latest
 
