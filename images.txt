@@ -1,1 +1,1 @@
-nriver/trilium-cn
+ubuntu
