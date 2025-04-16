@@ -1,5 +1,3 @@
-ODM
-WEBODM
-NODEODM
-ODMDATA
-ClusterODM
+opendronemap/webodm_db
+opendronemap/webodm_webapp
+redis:7.0.10
