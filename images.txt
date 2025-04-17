@@ -1,3 +1,2 @@
-node
-xhofe/alist
-xiaoyaliu/alist
+mysql
+php
