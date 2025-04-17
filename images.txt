@@ -1,2 +1,2 @@
-btpanel/bt:latest
+btpanel/bt
 mysql
