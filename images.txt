@@ -1,2 +1,1 @@
-mysql
-php
+mysql:5.7
