@@ -2,8 +2,8 @@ mongo:latest
 mongo:6.0
 mongo:5.0
 mongo:4.4
-elasticsearch：8.17.2
-elasticsearch：8.10.0
+elasticsearch:8.17.2
+elasticsearch:8.10.0
 kibana:8.17.2
 kibana:8.10.0
 kafka:8.17.2
