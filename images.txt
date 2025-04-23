@@ -1,1 +1,1 @@
-postgresql:14
+postgres:14
