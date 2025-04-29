@@ -1,2 +1,1 @@
-centos:7.9
 ubuntu：22.04
