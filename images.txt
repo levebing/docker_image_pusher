@@ -1,2 +1,3 @@
 ubuntu:22.04
 gitea/gitea:latest
+percona/pmm-server:latest
