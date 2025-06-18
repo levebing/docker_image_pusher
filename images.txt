@@ -1,1 +1,1 @@
-cybertec/patroni
+patroni
