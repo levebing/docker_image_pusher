@@ -1,2 +1,1 @@
-index.docker.io/cloudtogouser/pageplug-ce:v1.9.37
-codercom/code-server
+cybertec/patroni
