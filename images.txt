@@ -1,1 +1,1 @@
-patroni
+bitnami/patroni:latest
