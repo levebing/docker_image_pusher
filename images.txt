@@ -1,1 +1,1 @@
-monibuca/monibuca:latest
+golang:1.21
