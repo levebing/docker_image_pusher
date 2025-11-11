@@ -1,1 +1,9 @@
-node:18
+langgenius/dify-web:1.9.2
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.3.3-local
+ubuntu/squid:latest
+semitechnologies/weaviate:1.27.0
+langgenius/dify-api:1.9.2
+
