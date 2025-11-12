@@ -1,2 +1,2 @@
-coze-studio-server:latest
-coze-studio-web:latest
+cozedev/coze-studio-server:latest
+cozedev/coze-studio-web:latest
