@@ -1,1 +1,2 @@
-alpine:3.22.0
+coze-studio-server:latest
+coze-studio-web:latest
