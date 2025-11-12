@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.10
+golang:1.24-alpine
