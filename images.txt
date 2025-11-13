@@ -1,2 +1,2 @@
-cozedev/coze-plus-server:latest
-cozedev/coze-plus-web:latest
+node:22-alpine
+nginx:1.25-alpine
