@@ -1,1 +1,1 @@
-docker-bugzilla
+bugzilla/bugzilla
