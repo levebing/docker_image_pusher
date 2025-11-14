@@ -1,1 +1,1 @@
-bugzilla/bugzilla
+dklawren/docker-bugzilla:latest
