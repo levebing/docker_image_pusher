@@ -1,1 +1,1 @@
-docker pull bugzilla/bugzilla-perl-slim-mysql
+bugzilla/bugzilla-perl-slim-mysql
