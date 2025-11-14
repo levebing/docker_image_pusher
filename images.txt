@@ -1,1 +1,1 @@
-bugzilla/bugzilla-perl-slim-mysql
+nasqueron/bugzilla
