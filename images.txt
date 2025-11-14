@@ -1,1 +1,1 @@
-dklawren/docker-bugzilla:latest
+docker pull bugzilla/bugzilla-perl-slim-mysql
