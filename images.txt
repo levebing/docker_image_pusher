@@ -1,1 +1,1 @@
-alpine:3.18
+ubuntu:20.04
