@@ -1,1 +1,1 @@
-nasqueron/bugzilla
+alpine:3.18
