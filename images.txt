@@ -1,1 +1,1 @@
-victoriametrics/victoria-metrics:v1.131.0
+pika:latest
