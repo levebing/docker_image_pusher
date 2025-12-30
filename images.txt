@@ -1,2 +1,1 @@
-golang:1.20
-alpine:latest
+victoriametrics/victoria-metrics:v1.131.0
