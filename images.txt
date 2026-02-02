@@ -1,1 +1,1 @@
-ubuntu:24.04
+pytorch/pytorch:2.7.0-cuda12.6-cudnn9-runtime
