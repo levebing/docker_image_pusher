@@ -1,1 +1,2 @@
-pytorch/pytorch:2.7.0-cuda12.6-cudnn9-runtime
+tonistiigi/xx
+--platform linux/arm64/v8
