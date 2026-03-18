@@ -1,2 +1,2 @@
-tonistiigi/xx
+xx
 --platform linux/arm64/v8
